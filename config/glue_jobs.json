@@ -1,0 +1,6 @@
+{
+    "JobName": "SampleGlueJob",
+    "Role": "AWSGlueServiceRole",
+    "ScriptLocation": "s3://your-bucket-name/scripts/",
+    "PythonVersion": "3"
+}
